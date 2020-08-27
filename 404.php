@@ -1,4 +1,4 @@
 <?php
 header('Location: status');
-           echo 'To kde si došiel zas?!';
+           echo 'Page not found!';
 ?>
