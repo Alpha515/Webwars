@@ -31,7 +31,7 @@ $lang['TD']  = "Tank Destroyer" ;
 $lang['ATTACK_RIFLE']  = "Attack rifle" ;
 $lang['HOUF']  = "Defensive houf" ;
 $lang['MAKE']  = "Make" ;
-$lang['PANZERSTELLUNG']  = "PanzerTurm" ;
+$lang['PANZERSTELLUNG']  = "Tank Turret" ;
 $lang['MENU_POST.PHP'] = '<li><a href="main.php" class="">Headquarters</a></li>
 <li><a href="factory.php" class="">Factory</a></li>
 <li><a href="barracks.php" class="">Baracks</a></li>
@@ -247,8 +247,8 @@ $lang['FARMERS_START_THEIR_JOB'] = 'Farmers began to work!';
 $lang['OF_FOOD'] = 'food!';
 $lang['OF_GOLD'] = 'gold!';
 $lang['YOU_GET'] = 'You got';
-$lang['YOU_DONT_HAVE_ANY_FARMER'] = 'You do not have any farmer!';
-$lang['YOU_DONT_HAVE_ANY_MINER'] = 'You do not have any miner!';
+$lang['YOU_DONT_HAVE_ANY_FARMER'] = 'You do not have any farmers!';
+$lang['YOU_DONT_HAVE_ANY_MINER'] = 'You do not have any miners!';
 $lang['FARMERS_ALREADY_END_THEIR_JOB'] = 'Farmers have done their job!';
 $lang['MINERS_ALREADY_END_THEIR_JOB'] = 'Miners have done their job!';
 $lang['YOU_DONT_HAVE_BATTERY'] = 'You do not have enough battery!';
@@ -389,7 +389,7 @@ $lang['DIAMOND']  = "Diamonds" ;
 $lang['BATTERY']  = "Battery" ; 
 $lang['PRODUCTION_UNITS']  = "Production units" ;                                         
 $lang['FARMER']  = "Farmer" ; 
-$lang['MINER']  = "Minet" ;
+$lang['MINER']  = "Miner" ;
 $lang['T_FARMER']  = "Farmer II. level" ; 
 $lang['FISHERMAN']  = "Fisherman" ; 
 $lang['INFANTRY']  = "Infantry" ; 
