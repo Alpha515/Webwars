@@ -6,7 +6,7 @@
 <html lang="<?php echo $lang['HTML_LANG']; ?>">
 
 <head>
-	<meta name=description content="<?php echo $lang['META_DESCRIPTION']; ?>">
+<meta name=description content="<?php echo $lang['META_DESCRIPTION']; ?>">
 <meta name=keywords content="<?php echo $lang['META_KEYWORDS']; ?>">
 <meta name="robots" content="index,follow" />
 <meta name="revisit-after" content="2 days">
@@ -19,7 +19,7 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-76290977-1', 'auto');
+  ga('create', 'UA-59495408-2', 'auto');
   ga('send', 'pageview'); 
 </script>
 <!-- End Google Analytics -->
@@ -98,12 +98,9 @@ ul.topnav li.right {float: right;}
        <a href="?lang=ru"><img src="../images/lang/russia.png" alt="russia.png, 4,6kB" title="Russia" height="48" width="48"></a>
        <a href="?lang=cz"><img src="../images/lang/czech.png" alt="czech.png, 2,0kB" title="Czech" height="48" width="48"></a>
        <a href="?lang=it"><img src="../images/lang/italy.png" alt="italy.png, 739B" title="Italy" height="48" width="48"></a>
-         <center>
-         <a href="mailto:vasmail@emailschranka.sk" target="_top">WebWars</a>
-         
-         
-         
-         </center>
+       <p class="text-center">
+	       <a href="mailto:business@reloadcoin.io" target="_top">Email WebWars</a> or contact us on <a href="https://discord.gg/Xv45rq7">Discord</a>
+	</p>
 		</div>
 	</div>
 </body>
